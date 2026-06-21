@@ -18,6 +18,7 @@
     "strictPropertyInitialization": false,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
+    "types": ["node", "jest"],
     "paths": {}
   },
   "include": ["src/**/*"]
